@@ -9,7 +9,7 @@ This repository contains a Power BI project that showcases a sales dashboard. Th
 - `exports/Chicago Crime Data 2022 Analysis.pdf`: Exported PDF version of the report.
 
 ## Preview
-![Chicago Crime Data 2022 Analysis Dashboard Screenshot] (exports/Chicago Crime Data 2022 Analysis.png)
+![Chicago Crime Data 2022 Analysis Dashboard Screenshot] (exports/Chicago_Crime_Data_2022_Analysis.png)
 
 ## How to Use
 1. Clone this repository.
